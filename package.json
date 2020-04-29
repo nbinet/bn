@@ -1,0 +1,24 @@
+{
+  "name": "bn",
+  "version": "1.0.0",
+  "description": "My personnal website",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nbinet/bn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nbinet/bn/issues"
+  },
+  "homepage": "https://github.com/nbinet/bn#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.26.5"
+  }
+}
