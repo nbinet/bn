@@ -1,2 +1,2 @@
-# bn
-My personnal website
+# My presentation website
+nbinet.netlify.app
