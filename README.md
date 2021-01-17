@@ -1,2 +1,2 @@
 # My presentation website
-nbinet.netlify.app
+https://nbinet.netlify.app/
